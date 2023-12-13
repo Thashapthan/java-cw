@@ -1,0 +1,12 @@
+*****************
+*    Cashiers   *
+*****************
+X X 
+O X X 
+O X X X X 
+*****************
+X - not occupied
+O - occupied
+Cashier 1: Empty
+Cashier 2: [thasha, null, null]
+Cashier 3: [rumea, null, null, null, null]

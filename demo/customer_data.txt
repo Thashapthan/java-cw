@@ -1,0 +1,30 @@
+*****************
+*    Cashiers   *
+*****************
+  O     O     O
+  O     O     O
+        X     O
+              O
+              O
+
+*****************
+X - not occupied
+O - occupied
+
+Cashier 1: 
+thasha varathakumaran required no of burgers: 2
+hsdkjh kjd required no of burgers: 2
+
+
+Cashier 2: 
+gsdg hdw required no of burgers: 3
+ysdg kjh required no of burgers: 4
+
+
+Cashier 3: 
+thsdh dbmhsb required no of burgers: 4
+hdga sbdb required no of burgers: 3
+ghsg dn required no of burgers: 7
+dhbd ggj required no of burgers: 9
+hdh dj required no of burgers: 9
+

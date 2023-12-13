@@ -1,1 +1,1 @@
-esigned and implemented a queue management system for Snack King Food Center in Java. Developed features to manage customer queues, monitor pizza stock, and handle waiting lists. Achieved robust testing and reporting, showcasing strong coding skills and problem-solving abilities
+designed and implemented a queue management system for Snack King Food Center in Java. Developed features to manage customer queues, monitor pizza stock, and handle waiting lists. Achieved robust testing and reporting, showcasing strong coding skills and problem-solving abilities
